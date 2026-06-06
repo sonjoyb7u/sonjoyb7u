@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sonjoy Barua</h1>
 <h3 align="center">A full stack web application developer.</h3>
-<img style="text-align: center;" src="https://imarticus.org/blog/wp-content/uploads/2020/09/vsdq.gif" alt="Web Developer" width="400" height="500">
+<img style="text-align: center;" src="https://imarticus.org/blog/wp-content/uploads/2020/09/vsdq.gif" alt="Web Developer" height="400">
 
 - 🔭 I’m currently working on [VAT Web Application](115.127.80.169:7889)
 
