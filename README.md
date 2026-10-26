@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working on [VAT systems, POS, e-commerce platforms, and business websites ]
 
-- 🌱 I’m currently learning **Laravel Framework, React Libraries**
+- 🌱 I’m currently learning & working on **PHP, Laravel Framework, React Libraries**
 
 - 👨‍💻 All of my projects are available at [https://sonjoybarua-portfolio.web.app](https://sonjoybarua-portfolio.web.app)
 
-- 💬 Ask me about **Bootstrap, Tailwind CSS, Jquery, JavaScript + ES6, React, PHP Core, Laravel, Ajax, Node JS, REST API**
+- 💬 Ask me about **Bootstrap, Tailwind CSS, jQuery, JavaScript + ES6, React, PHP Core, Laravel, AJAX, Node JS, REST API**
 
 - 📫 How to reach me: **sonjoy.john@gmail.com**
 
