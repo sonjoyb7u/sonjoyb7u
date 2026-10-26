@@ -2,15 +2,15 @@
 <h3 align="center">A full stack web application developer.</h3>
 <img style="text-align: center;" src="https://imarticus.org/blog/wp-content/uploads/2020/09/vsdq.gif" alt="Web Developer" height="400">
 
-- 🔭 I’m currently working on [VAT Web Application](115.127.80.169:7889)
+- 🔭 I’m currently working on [VAT systems, POS, e-commerce platforms, and business websites ]
 
-- 🌱 I’m currently learning **Laravel Framework, React Libraries, Vue Js Framework**
+- 🌱 I’m currently learning **Laravel Framework, React Libraries**
 
 - 👨‍💻 All of my projects are available at [https://sonjoybarua-portfolio.web.app](https://sonjoybarua-portfolio.web.app)
 
-- 💬 Ask me about **Laravel, React**
+- 💬 Ask me about **Bootstrap, Tailwind CSS, Jquery, JavaScript + ES6, React, PHP Core, Laravel, Ajax, Node JS, REST API**
 
-- 📫 How to reach me **sonjoy.john@gmail.com**
+- 📫 How to reach me: **sonjoy.john@gmail.com**
 
 - 📄 Know about my experiences [https://sonjoybarua-portfolio.web.app](https://sonjoybarua-portfolio.web.app)
 
